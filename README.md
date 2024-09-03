@@ -1,1 +1,21 @@
-# test
+# Create a Pullrequist 
+## steps 
+- Fork the repository
+- Clone the repository
+- Create a new branch
+- Make necessary changes and commit those changes
+- Push changes to GitHub
+- Submit your changes for review
+- Create a pull request
+- Wait for the pull request to be reviewed
+- If the pull request is approved, it will be merged to the main branch
+- If there are any conflicts, resolve them and push the changes
+- Your pull request is merged
+- Sync your forked repository with the original repository
+- Delete the branch
+- Pull the latest changes from the main branch
+- Delete the local and remote branch
+- Delete the forked repository
+- Delete the pull request
+- Delete the original repository
+- Delete the forked repository
